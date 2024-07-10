@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0.86"
+home = "0.5.9"
+strum = { version = "0.26.3", features = ["derive"] }
